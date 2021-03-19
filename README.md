@@ -1,3 +1,3 @@
-*Convolutional-Neural-Network-CNN-
+- Convolutional-Neural-Network-CNN-
 
-*Neural-Network-And-MNIST-Dataset
+- Neural-Network-And-MNIST-Dataset
